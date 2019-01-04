@@ -1,0 +1,19 @@
+{
+  "name": "hshop",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A app about shop powered by ApiCloud.",
+  "scripts": {
+    "test": "echo 'No Test Script...'"
+  },
+  "keywords": [
+    "app",
+    "apicloud",
+    "shop"
+  ],
+  "author": {
+    "name": "Huiyi.FYJ",
+    "email": "jxfengyijie@gmail.com"
+  },
+  "license": "MIT"
+}

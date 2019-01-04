@@ -1,0 +1,65 @@
+/**
+ * 该文件是 error 文件夹下的 error.html 需要的 css 样式表
+ */
+.header-top {
+    height: 45px;
+    width: 100%;
+    background: rgb(224,29,32);
+    display: -webkit-box;
+    -webkit-box-align: center;
+}
+.header-top-img {
+    display: -webkit-box;
+    height: 35px;
+    padding-left: 8px;
+}
+.header-top-search {
+    display: -webkit-box;
+    -webkit-box-flex: 1;
+    border: 1px solid rgb(224,100,100);
+    height: 30px;
+    margin: 0 0 0 10px;
+    padding: 0 10px;
+    color: rgb(255,255,255);
+    background-color: rgb(228,56,59);
+    border-radius: 10px;
+    outline-style: none;
+}
+#header-bottom .current {
+    color: rgb(224,29,32);
+}
+.header-bottom-ul {
+    display: -webkit-box;
+    height: 40px;
+    position: relative;
+    border-bottom: 1px solid rgb(200,200,200);
+}
+#header-bottom-ul-dot {
+    height: 5px;
+    width: 5px;
+    border-radius: 100%;
+    background-color: rgb(224,29,32);
+    position: absolute;
+    top: 30px;
+    left: 12.3%;
+    transition: all .5s;
+    -webkit-transition: all .5s;
+}
+.header-bottom-ul li {
+    display:-webkit-box;
+    -webkit-box-align: center;
+    -webkit-box-pack: center;
+    -webkit-box-flex: 1;
+}
+.header-bottom-ul span {
+    display: -webkit-box;
+}
+.main-banner {
+    height: 157px;
+    background: rgb(222,222,222);
+    position: relative;
+}
+.footer {
+    min-height: 1000px;
+    background: rgb(111,222,111);
+}
